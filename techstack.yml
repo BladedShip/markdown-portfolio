@@ -1,0 +1,18 @@
+repo_name: BladedShip/markdown-portfolio
+report_id: bc11cc4bcca238c6775bfb62add5d6e3
+repo_type: Public
+timestamp: '2023-11-09T14:01:59+00:00'
+requested_by: github-learning-lab[bot]
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
